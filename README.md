@@ -11,8 +11,8 @@ This project presents a comprehensive analysis of Netflix’s content catalog (f
 - PivotCharts
 - Data Visualization
 - Interactive Dashboard
-
---
+  
+---
 ## Dashboard Preview
 
 ![Dashboard](images/image.png)
