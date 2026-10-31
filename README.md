@@ -8,6 +8,7 @@ This project presents a comprehensive analysis of Netflix’s content catalog (f
 - Google Spreadsheets
 - Excel Formulas
 - Data Cleaning
+- Pivot Table
 - PivotCharts
 - Data Visualization
 - Interactive Dashboard
