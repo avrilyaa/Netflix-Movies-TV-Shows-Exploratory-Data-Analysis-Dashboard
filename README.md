@@ -6,7 +6,6 @@ This project presents a comprehensive analysis of Netflix’s content catalog (f
 ---
 ## Tools & Technologies
 - Google Spreadsheets https://docs.google.com/spreadsheets/d/1hqap2cAMxVpLrfGMvwqMryRTrhISbCMT8Gzm6fk5-5c/edit?usp=sharing
-- Excel Formulas
 - Data Cleaning
 - Pivot Table
 - PivotCharts
